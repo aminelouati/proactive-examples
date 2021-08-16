@@ -24,7 +24,7 @@
 
 This template supports only basic authentication, for more advanced authentication settings, please modify the template according to the rest-assured documentation:
 https://github.com/rest-assured/rest-assured/wiki/Usage#authentication
-
+kkk
 It accepts the following parameters:
 ENDPOINT: base url of the request (inherited from job variable)
 USER: basic auth user (if required, inherited from job variable)
